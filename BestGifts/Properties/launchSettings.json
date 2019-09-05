@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BestGifts": {
+      "commandName": "Project",
+      "commandLineArgs": "prices.txt 2500"
+    }
+  }
+}
